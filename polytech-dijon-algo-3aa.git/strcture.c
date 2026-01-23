@@ -5,3 +5,7 @@ typedef struct polynomial {
     int b;
     int c;
 }
+
+typedef struct solution{
+    int sol[2];
+}
